@@ -1,1 +1,1 @@
-#**Removable Universal Sketch (RUS) - Flink/Kafka Pipeline**
+# **Removable Universal Sketch (RUS) - Flink/Kafka Pipeline**
